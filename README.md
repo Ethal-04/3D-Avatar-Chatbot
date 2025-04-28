@@ -1,6 +1,4 @@
 
-
-```markdown
 # Web Avatar Chat App
 
 ## Project Overview
