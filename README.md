@@ -1,7 +1,4 @@
 
-Built by https://www.blackbox.ai
-
----
 
 ```markdown
 # Web Avatar Chat App
