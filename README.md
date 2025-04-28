@@ -52,6 +52,3 @@ web-avatar-chat-app/
 ├── server.js               # Entry point for the application
 └── [other files and directories as needed]  # Additional resources
 ```
-
-Feel free to explore and modify the project as needed!
-```
